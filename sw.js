@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ippnuda-ramadhan-v6';
+const CACHE_NAME = 'ippnuda-ramadhan-v7';
 const ASSETS = [
   './',
   './index.html',
@@ -36,3 +36,4 @@ self.addEventListener('fetch', (e) => {
     })
   );
 });
+
